@@ -1,0 +1,7 @@
+body {
+    background-image: url("images/pattern.gif");}
+    p {
+        background-image: url("images/pattern.gif");}
+        body {
+            background-image: url("images/header.gif");
+            background-repeat: repeat-x;}
